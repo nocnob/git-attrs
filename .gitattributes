@@ -1,1 +1,2 @@
 *.1	-text -diff
+*.s -text -diff
